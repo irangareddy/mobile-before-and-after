@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Before & After"
+  short_description: "Capture matched iOS and Android evidence"
+  default_prompt: "Use $mobile-before-and-after to capture matched before-and-after evidence for this iOS and Android change."
